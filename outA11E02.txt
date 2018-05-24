@@ -1,0 +1,4 @@
+Pais: Borduria, População: 307454 (Capital: Cidade Szohod, população: 31212)
+Pais: Khemed, População: 362475 (Capital: Cidade Wadesdah, população: 23423)
+Pais: Aurelia, População: 0 (Capital: *Indefinida*)
+Pais: Atlantis, População: 0 (Capital: *Indefinida*)

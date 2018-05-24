@@ -1,0 +1,6 @@
+AutomovelHibrido [Automovel [Veiculo [matricula=00-AA-00, ano=2000, cor=Verde]potencia=150]emissaoCO2=50.0, autonomia=400.0]
+AutomovelPropulosao [Automovel [Veiculo [matricula=00-ZZ-00, ano=2017, cor=Vermelho]potencia=120]emissaoCO2=100.0]
+MotoEletrica [Moto [Veiculo [matricula=11-11-BB, ano=2010, cor=Preto]potencia=500]autonomia=0.0]
+Bicicleta [Veiculo [matricula=55-55-CC, ano=2015, cor=Branco]]
+MotoPropulsao [Moto [Veiculo [matricula=99-99-ZZ, ano=2018, cor=Amarelo]potencia=750]emissaoCO2=0.0]
+AutomovelEletrico [Automovel [Veiculo [matricula=ZZ-00-00, ano=2010, cor=Azul]potencia=75]autonomia=300.0]
